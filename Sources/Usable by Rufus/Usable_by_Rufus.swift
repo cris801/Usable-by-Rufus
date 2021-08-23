@@ -1,7 +1,9 @@
+public let Rufus = PrintTextString.default
+
 public struct Usable_by_Rufus {
     var text = "Hello, World!"
     
-    public let Rufus = PrintTextString.default
+    
     
     public init() {
         
