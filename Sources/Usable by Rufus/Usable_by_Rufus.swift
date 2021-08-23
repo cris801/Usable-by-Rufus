@@ -1,4 +1,4 @@
-struct Usable_by_Rufus {
+public çstruct Usable_by_Rufus {
     var text = "Hello, World!"
     
     public func printxtStr(str: String) {
