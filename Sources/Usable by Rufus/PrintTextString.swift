@@ -11,7 +11,7 @@ open class PrintTextString {
     
     public static let `default` = PrintTextString()
     
-    func printxtStr(str: String) {
+    public func printxtStr(str: String) {
         print("TU CADENA CONTIENE: \(str)")
     }
 }
