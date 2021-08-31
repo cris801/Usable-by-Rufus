@@ -15,5 +15,13 @@ open class PrintTextString {
         print("TU CADENA CONTIENE: \(str)")
     }
     
-//    comment test 
+    public func commentTest() -> String {
+        
+        let str: String = "COMMENT TEST  By Cris"
+        print("TU CADENA RETORNA: \(str)")
+        
+        return str
+    }
+    
+//    comment test
 }
