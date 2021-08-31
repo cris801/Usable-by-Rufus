@@ -15,5 +15,7 @@ open class PrintTextString {
         print("TU CADENA CONTIENE: \(str)")
     }
     
-//    comment test 
+//    comment test
+    
+    // bla bla
 }
