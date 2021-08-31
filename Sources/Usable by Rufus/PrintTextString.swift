@@ -17,5 +17,5 @@ open class PrintTextString {
     
 //    comment test
     
-    // bla bla
+    // bla bla bla
 }
